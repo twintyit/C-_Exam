@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\TrackingProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|solutionrelative:server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\server\\models\\serverlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|solutionrelative:server\\models\\serverlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\server\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|solutionrelative:server\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\server\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF46592C-BAC3-477F-B121-9BD355B1BA72}|Server\\Server.csproj|solutionrelative:server\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\klient\\models\\klientlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|solutionrelative:klient\\models\\klientlogics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|c:\\users\\1\\source\\repos\\trackingprogram\\klient\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|solutionrelative:klient\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|C:\\Users\\1\\source\\repos\\TrackingProgram\\klient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|solutionrelative:klient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|c:\\users\\1\\source\\repos\\trackingprogram\\klient\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBF71CE8-6772-4689-92A4-DC48A4FB806F}|Klient\\Klient.csproj|solutionrelative:klient\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Klient\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Klient\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:53:54.286Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Server\\View\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T13:28:43.19Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Server\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\View\\Form1.cs",
+              "RelativeToolTip": "Server\\View\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:15:43.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Server\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:15:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerLogics.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\Models\\ServerLogics.cs",
+              "RelativeDocumentMoniker": "Server\\Models\\ServerLogics.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Server\\Models\\ServerLogics.cs",
+              "RelativeToolTip": "Server\\Models\\ServerLogics.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:17:57.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "Klient\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\View\\Form1.cs",
+              "RelativeToolTip": "Klient\\View\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBAAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:00:34.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Klient\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Klient\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:36:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KlientLogics.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\Models\\KlientLogics.cs",
+              "RelativeDocumentMoniker": "Klient\\Models\\KlientLogics.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\TrackingProgram\\Klient\\Models\\KlientLogics.cs",
+              "RelativeToolTip": "Klient\\Models\\KlientLogics.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T20:42:42.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

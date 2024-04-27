@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\bin\Debug\net8.0\LibraryTrackingProgram.deps.json
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\bin\Debug\net8.0\LibraryTrackingProgram.dll
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\bin\Debug\net8.0\LibraryTrackingProgram.pdb
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.AssemblyInfo.cs
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.dll
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\refint\LibraryTrackingProgram.dll
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\LibraryTrackingProgram.pdb
+C:\Users\1\source\repos\TrackingProgram\LibraryTrackingProgram\obj\Debug\net8.0\ref\LibraryTrackingProgram.dll
